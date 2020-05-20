@@ -1,5 +1,5 @@
 # study_admin
-Stores R scripts for automation of various study admin tasks
+R scripts for automation of various study admin tasks
 
 # Description of Scripts
 
